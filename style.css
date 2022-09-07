@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3.8rem;
+    position: relative;
+    left: 560px;
+    top: 70px;
+}
+hr{
+    border: solid aqua;
+    width: 100px;
+    position: relative;
+    top: 50px;
+}
+.review{
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+}
+.img{
+    float: top;
+    position: relative;
+    border-radius: 5px;
+}
+article{
+    box-shadow: 2px 2px 8px grey;
+}
+.sizeofimg{
+    width: 50px;
+    cursor: pointer;
+}
+.surpise{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+.surpise:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
